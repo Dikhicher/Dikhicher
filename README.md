@@ -1,17 +1,26 @@
-### Hi there 👋
-### Create by  @Dikhicher
+# Developer Profile
 
-<!--
-**Dikhicher/dikhicher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is [@Dikhicher](https://github.com/Dikhicher).
 
-Here are some ideas to get you started:
+## Education
+- Higher Education: Incomplete higher education in the field of artificial intelligence development and training.
+- Secondary Education: "Web and Multimedia Application Developer".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Additional Education
+- Courses: SkillBox (GameDev Developer).
+
+## Work Experience
+- Backend Development.
+- Experience with Unreal Engine 4.
+
+## About Me
+I've studied C-like programming languages and Python. I have experience working with Unreal Engine 4 and have developed my own project on this platform. Additionally, I have my own website.
+
+## Key Skills
+- Python scripting.
+- Game development in Unreal Engine 4 and C++.
+- Creation and maintenance of personal websites.
+
+## Contact
+- Telegram: [Dikhicher](https://t.me/Dikhicher)
+- VK: [Дмитрий](https://vk.com/dikhicher)
